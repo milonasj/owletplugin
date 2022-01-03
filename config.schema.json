@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "OwletPlugin",
   "pluginType": "platform",
   "singular": true,
   "schema": {
